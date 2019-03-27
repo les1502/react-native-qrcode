@@ -1,8 +1,11 @@
 # react-native-qrcode
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
 
+## Introduction
+
 - 生成二维码的工具
 
+## Effect Picture
 <a><img width="200" src="./qrcodeEx.png"></a>
 
 
