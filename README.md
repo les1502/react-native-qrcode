@@ -41,7 +41,7 @@ class HelloWorld extends Component {
           value={this.state.text}
         />
         <QRCode
-          value={this.state.text}
+          value={this.state.text}//个人信息
           size={200}
           bgColor='purple'
           fgColor='white'/>
